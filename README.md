@@ -1,4 +1,4 @@
-# Women Empowerment Chatbot 👩
+# Woobot 
 This is a chatbot to promote women empowerment and support
 ## Women Empowerment
 Sends encouraging messages, quotes and GIFs.
