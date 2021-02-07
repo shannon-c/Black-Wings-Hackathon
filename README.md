@@ -1,5 +1,5 @@
 # Woobot 
-This is a chatbot to promote women empowerment and support
+This is a chatbot to promote women empowerment and support. Add it on discord using Woobot#2915
 ## Women Empowerment
 Sends encouraging messages, quotes and GIFs.
 ## Women Support
