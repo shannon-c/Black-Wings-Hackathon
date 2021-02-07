@@ -111,7 +111,7 @@ async def on_message(message):
     processed_mssg = preprocess(message.content)
     # print(model.predict(processed_mssg))
     prediction = model.predict(processed_mssg).tolist()
-    if len(prediction)>2 and (prediction.count(1)>=len(prediction)/2):
+    if len(prediction)>1 and (prediction.count(1)>=len(prediction)/2):
       users_warning[mssg_author] += 1
       global status
       status = "go"
